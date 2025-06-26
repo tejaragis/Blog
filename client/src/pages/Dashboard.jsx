@@ -1,5 +1,5 @@
 export default function Dashboard(){
     return (
-        <div>Dashboard</div>
+        <div className="navbar navbar-expand-lg text-success"> Dashboard</div>
     )
 }
